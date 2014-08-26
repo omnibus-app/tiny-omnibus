@@ -1,0 +1,14 @@
+{
+  "name": "tiny-omnibus",
+  "version": "0.1.0",
+  "description": "The bare minimum.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "omnibus": "^0.1.5"
+  }
+}

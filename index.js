@@ -1,0 +1,1 @@
+require( 'omnibus/app' ).launch();
